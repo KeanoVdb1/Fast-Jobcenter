@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Keano Productions'
+author 'Fast Shop'
 description 'Job Center NPC Script'
 version '1.0.0'
 lua54 'yes'
